@@ -11,13 +11,14 @@ body {
 }
 
 h1 {
-  font-size: 3rem;
+  font-size: 4rem;
   color: #EFF0E2;
   font-family: "Arvo", cursive;
   text-shadow: 3px 0 #DA0463;
 }
 
 h2{
+  font-size:3rem;
   color:#FA9141;
 }
 
@@ -48,34 +49,16 @@ h2{
    color: #FF6743;
   border-radius: 15px;
   width:2.4em ;
-  margin: 0.1em;
+  margin: 0.9em;
   background: transparent;
 }
 
 
 footer {
+  font-size:2rem;
   color: #DBEDF3;
   font-family: sans-serif;
 }
 
 
-@media only screen and (min-width: 500px){
 
-  h1{
-    font-size:4em;
-  }
-
-  h2{
-    font-size: 3em;
-  }
-
-  .drum{
-    width:3em;
-    padding:0.6em;
-    margin: 0.8em;
-  }
-
-  footer{
-    font-size: 3em;
-  }
-}
